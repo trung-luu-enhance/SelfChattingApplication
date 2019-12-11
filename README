@@ -1,0 +1,3 @@
+I created an application that allows you to switch between two users, Blue and Green, to chat with yourself.
+
+The conversations are stored in Shared Preferences. The image are loaded from the internet using Glide.
