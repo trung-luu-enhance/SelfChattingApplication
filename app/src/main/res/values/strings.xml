@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Self Chatting Application</string>
+    <string name="green_button_text">Go to Green Chat</string>
+    <string name="blue_button_text">Go to Blue Chat</string>
+</resources>
